@@ -1,6 +1,6 @@
 # Cheapest-DIY-Onewheel
 This is a quick guide to a fully DIY onewheel that I have designed that I believe is the best compromise between price and performance.
-NOTE: if you live in the UK I will be offering a build service for all parts exept the battery.
+NOTE: if you live in the UK I will be offering a build service for all parts exept the battery. contact me at williamstapleton07@gmail.com for further information.
 
 This guide is quite advanced so be sure to read through the entire project before attempting to build your own board.
 and sorry for waffley text of spelling errors i am just trying to explain the basic information
