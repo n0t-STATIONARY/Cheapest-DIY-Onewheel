@@ -14,8 +14,8 @@ I will be breaking this guide into 3 key sections Electronics, Structure and Sof
 Electronics:
 Motor and Controller:
   In a board there are 3 primary electical components these being the controller the motor and the battery.
-  Fortunatly a company called Spintend has made some of this easier by offering a kit designed for Onewheels there are a few to choose from I highly reccomend this kit 
-  [](https://spintend.com/collections/diy-onewheel-parts-group/products/diy-onewheel-beast-power-pack7)   : only consider this if the price is bellow $330 as listed on 
+  Fortunatly a company called Spintend has made some of this easier by offering a kit designed for Onewheels there are a few to choose from I highly reccomend 
+  [this kit](https://spintend.com/collections/diy-onewheel-parts-group/products/diy-onewheel-beast-power-pack7)   : only consider this if the price is bellow $330 as listed on 
   the website.
 
   but for those on a cheaper budget this kit may be more suitable: 
